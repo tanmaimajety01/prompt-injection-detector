@@ -52,3 +52,13 @@ pip install -r requirements.txt
 
 # Run the project
 python main.py
+
+## 📁 Project Structure
+
+```
+prompt-injection-detector/
+│── main.py
+│── requirements.txt
+│── data/
+│── README.md
+```
